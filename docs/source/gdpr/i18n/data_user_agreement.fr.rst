@@ -2,7 +2,7 @@
 
 French
 ------
-(translation courtesy of Anne Hespel and Dr Elise Bannier)
+(translation courtesy of Dr Anne Hespel, Dr Elise Bannier and Dr Camille Maumet)
 
 Engagement de l'utilisateur des données pour l'accès à des données personnelles directement ou indirectement identifiantes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
